@@ -1,3 +1,4 @@
+/* jshint esversion: 6 */
 import pug from 'rollup-plugin-pug';
 import sass from 'rollup-plugin-sass';
 import vue from 'rollup-plugin-vue';
