@@ -26,5 +26,5 @@ export default {
     font-family: serif
     width: 100%
     box-sizing: border-box
-    background: transparent
+    background: tomato
 </style>
